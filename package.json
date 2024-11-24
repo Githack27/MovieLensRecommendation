@@ -1,0 +1,22 @@
+{
+  "name": "movielensrecommendation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.5.2",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.2",
+    "util": "^0.12.5"
+  },
+  "type": "module"
+}
